@@ -1,6 +1,8 @@
 # w3care-challenge-api
 ![W3care](https://w3.care/wp-content/uploads/2020/05/w3care-logo.png)
 
+![this is a refactoring from] (https://github.com/maverickanp/desafio_back)
+
 # Desafio Backend
 Com grandes poderes, vem grandes chocolates suíços... ou alguma coisa assim...
 
