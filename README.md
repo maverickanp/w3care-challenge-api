@@ -48,3 +48,20 @@ O **Médico** finalizará a sala de chat desconectando o **Paciente** atual e ch
 # Como submeter
 Faça um fork deste repositório e quando finalizar, faça um **pull request** com o seu nome.
  
+# Como testar [versão alpha]
+Instale o docker compose em sua maquina e rode com o comando
+
+```
+docker-compose up --build
+```
+
+Acesse http://localhost:7780/?user=Pedrosa&room=waiting
+
+# Proximos passos
+* crud pacientes completo
+* persistir fila no banco de dados
+* autenticação de usuario
+* ajustar o retorno da api de autenticação
+* adicionar a funcionalidade de fila de espera
+* adicionar a funcionalidade de conversa do medico com o paciente
+* salvar o atendiento no banco de dados 
