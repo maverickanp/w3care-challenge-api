@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  web:
+    build: ./w3care-challenge-web
+    ports:
+      - "7780:7780"
+  api:
+    build: ./w3care-challenge-api
+    ports:
+      - "7781:7781"
