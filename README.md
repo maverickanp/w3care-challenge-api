@@ -2,6 +2,9 @@
 ![W3care](https://w3.care/wp-content/uploads/2020/05/w3care-logo.png)
 
 ![this is a refactoring from] (https://github.com/maverickanp/desafio_back)
+![Code Quality Score](https://www.code-inspector.com/project/14811/score/svg)
+![Code Grade](https://www.code-inspector.com/project/14811/status/svg)
+
 
 # Desafio Backend
 Com grandes poderes, vem grandes chocolates suíços... ou alguma coisa assim...
