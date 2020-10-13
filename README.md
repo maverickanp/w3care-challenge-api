@@ -1,5 +1,5 @@
 
-(https://w3.care/wp-content/uploads/2020/05/w3care-logo.png)
+![W3care](https://w3.care/wp-content/uploads/2020/05/w3care-logo.png)
 
 # Desafio Backend
 Com grandes poderes, vem grandes chocolates suíços... ou alguma coisa assim...
